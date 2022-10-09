@@ -11,7 +11,7 @@
 ## About Me 
    
 <div align="center">
-  <p align="center">Apasionado por el Desarollo Web. Egresado del programa AWS re/Start y de la carrera de Desarollo de Sistemas de Información, estoy muy feliz por haber encontrado lo que más me gusta, que es <b>¡programar!</b> y  encantado de estar en constante aprendizaje, aprendiendo de compañeros, mentores, y fascinado por encontrar nuevos retos.</p>
+  <p>Apasionado por el Desarollo Web. Egresado del programa AWS re/Start y de la carrera de Desarollo de Sistemas de Información, estoy muy feliz por haber encontrado lo que más me gusta, que es <b>¡programar!</b> y  encantado de estar en constante aprendizaje, aprendiendo de compañeros, mentores, y fascinado por encontrar nuevos retos.</p>
     </p>
 </div>
 
