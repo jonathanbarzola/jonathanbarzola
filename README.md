@@ -35,6 +35,9 @@
   
 <br>
 
+## Validated knowledge
+<a href="https://www.credly.com/badges/99b710b4-46cb-4eb9-ab98-22b67103b76d/public_url"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height=140 alt="AWS Certified Cloud Practitioner - Jonathan Barzola"></a>
+
 ## Find me in other places
 -   In twitter  [@Jonathanb2102](https://twitter.com/jonathanb2102)
 -   In Linkedin  [Jonathan Barzola](https://www.linkedin.com/in/jonathanbarzola/)
