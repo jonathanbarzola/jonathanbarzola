@@ -17,7 +17,7 @@
 <br>
 
 ## Full Stack Developer 
-<div style="display: flex; justify-content: center; width: 100%;">
+<div style="display: inline_block" align="center">
   <img alt="HTML" height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
   <img alt="CSS" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
   <img alt="JS" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
