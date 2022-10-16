@@ -17,26 +17,27 @@
 <br>
 
 ## Full Stack Developer 
-<div style="display: inline_block" align="center">
-  <img align="center" alt="HTML" height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
-  <img align="center" alt="CSS" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
-  <img align="center" alt="Js" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-  <img align="center" alt="React" height="50" width="50" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
-  <img align="center" alt="Redux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Node" height="50" width="50" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
-  <img align="center" alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Sequelize" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="PostgreSql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="50" width="100" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
-  <img align="center" alt="Github" height="50" width="50" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
-  <img align="center" alt="Firebase" height="50" width="50" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif">
-  </div>
+<div style="display: flex;">
+  <img style="margin: 0 10px" alt="HTML" height="65" width="65" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
+  <img style="margin: 0 10px" alt="CSS" height="65" width="65" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
+  <img style="margin: 0 10px" alt="JS" height="65" width="65" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
+  <img style="margin: 0 10px" alt="React" height="65" width="65" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
+  <img style="margin: 0 10px" alt="Redux" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img style="margin: 0 10px" alt="Node" height="65" width="65" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
+  <img style="margin: 0 10px" alt="Express" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img style="margin: 0 10px" alt="Sequelize" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+  <img style="margin: 0 10px" alt="MySQL" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img style="margin: 0 10px" alt="PostgreSQL" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img style="margin: 0 10px" alt="Git" height="65" width="120" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+  <img style="margin: 0 10px" alt="Github" height="65" width="65" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
+  <img style="margin: 0 10px" alt="Firebase" height="65" width="65" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif">
+</div>
   
 <br>
 
 ## Validated knowledge
-<a href="https://www.credly.com/badges/99b710b4-46cb-4eb9-ab98-22b67103b76d/public_url"><img height="100" width="100" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height=140 alt="AWS Certified Cloud Practitioner - Jonathan Barzola"></a>
+<a href="https://www.credly.com/badges/99b710b4-46cb-4eb9-ab98-22b67103b76d/public_url"><img height="140" width="140" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner - Jonathan Barzola"></a>
+<a href="https://www.credly.com/badges/a3a2de26-7b11-4488-9cc9-43a504f7fa78/public_url"><img height="150" width="150" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate - Jonathan Barzola"></a>
 
 ## Find me in other places
 -   In twitter  [@Jonathanb2102](https://twitter.com/jonathanb2102)
