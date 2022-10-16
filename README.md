@@ -18,19 +18,19 @@
 
 ## Full Stack Developer 
 <div style="display: flex;">
-  <img style="margin: 0 10px" alt="HTML" height="65" width="65" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
-  <img style="margin: 0 10px" alt="CSS" height="65" width="65" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
-  <img style="margin: 0 10px" alt="JS" height="65" width="65" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-  <img style="margin: 0 10px" alt="React" height="65" width="65" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
-  <img style="margin: 0 10px" alt="Redux" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img style="margin: 0 10px" alt="Node" height="65" width="65" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
-  <img style="margin: 0 10px" alt="Express" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img style="margin: 0 10px" alt="Sequelize" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
-  <img style="margin: 0 10px" alt="MySQL" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img style="margin: 0 10px" alt="PostgreSQL" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img style="margin: 0 10px" alt="Git" height="65" width="120" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
-  <img style="margin: 0 10px" alt="Github" height="65" width="65" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
-  <img style="margin: 0 10px" alt="Firebase" height="65" width="65" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif">
+  <img alt="HTML" height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
+  <img alt="CSS" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
+  <img alt="JS" height="50" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
+  <img alt="React" height="50" width="50" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
+  <img alt="Redux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img alt="Node" height="50" width="50" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
+  <img alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img alt="Sequelize" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+  <img alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="Git" height="50" width="80" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+  <img alt="Github" height="50" width="50" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
+  <img alt="Firebase" height="50" width="50" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif">
 </div>
   
 <br>
