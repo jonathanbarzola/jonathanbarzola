@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Jonathan Barzola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=F75E94&background=FF31B700&lines=Full+Stack+Web+Developer;Software+Engineer"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=5E76F7&background=FF31B700&lines=Full+Stack+Web+Developer"></a>
 </p>
 
 
