@@ -39,7 +39,7 @@
 
 ## Find me in other places
 -   In twitter  [@Jonathanb2102](https://twitter.com/jonathanb2102)
--   In Linkedin  [Jonathan Barzola](https://www.linkedin.com/in/jonathanbarzola/)
+-   In Linkedin [Jonathan Barzola](https://www.linkedin.com/in/jonathanbarzola/)
    
 ---
 
