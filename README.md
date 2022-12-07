@@ -33,8 +33,8 @@
 <br>
 
 ## Validated knowledge
-<a href="https://www.credly.com/badges/99b710b4-46cb-4eb9-ab98-22b67103b76d/public_url" target="_blank"><img height="140" width="140" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner - Jonathan Barzola"></a>
-<a href="https://www.credly.com/badges/a3a2de26-7b11-4488-9cc9-43a504f7fa78/public_url" target="_blank"><img height="150" width="150" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate - Jonathan Barzola"></a>
+<a href="https://www.credly.com/badges/99b710b4-46cb-4eb9-ab98-22b67103b76d/public_url" target="_blank"><img height="120" width="120" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner - Jonathan Barzola"></a>
+<a href="https://www.credly.com/badges/a3a2de26-7b11-4488-9cc9-43a504f7fa78/public_url" target="_blank"><img height="140" width="140" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate - Jonathan Barzola"></a>
 
 ## Find me in other places
 -   In twitter  [@Jonathanb2102](https://twitter.com/jonathanb2102)
