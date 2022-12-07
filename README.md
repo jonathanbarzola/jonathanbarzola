@@ -1,7 +1,7 @@
 
     
  <p align="center">
- <h1 align="center">Hi👋, I'm Jonathan Barzola 
+ <h1 align="center">Hi , I'm Jonathan Barzola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  <h4 align="center"> 
      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+FrontEnd+Web+Developer%E2%9C%A8%E2%9C%A8"></a>
 </h4>
