@@ -18,10 +18,10 @@
   <img alt="HTML" height="65" width="65" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
   <img alt="CSS" height="65" width="65" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
   <img alt="JS" height="60" width="60" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-  <img alt="React" height="50" width="50" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
-  <img alt="Redux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img alt="React" height="65" width="65" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
+  <img alt="Redux" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img alt="Node" height="65" width="65" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
-  <img alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img alt="Express" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <!-- <img alt="Sequelize" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> -->
   <!-- <img alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> -->
   <!-- <img alt="PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> -->
