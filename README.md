@@ -4,7 +4,7 @@
 </p>
 
 
-## About Me 
+## :man_technologist: About Me
    
 <div>
   <p>Apasionado por el Desarollo Web. Egresado del programa AWS re/Start, estoy muy feliz por haber encontrado lo que más me gusta, que es <b>¡programar!</b> y  encantado de estar en constante aprendizaje, aprendiendo de compañeros, mentores, y fascinado por encontrar nuevos retos.</p>
@@ -12,15 +12,15 @@
 
 <br>
 
-## Full Stack Developer 
+## :hammer_and_wrench: Languages and Tools :
 <div style="display: inline_block" align="center">
   <img alt="HTML" height="65" width="65" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
   <img alt="CSS" height="65" width="65" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
   <img alt="JS" height="60" width="60" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
   <img alt="React" height="50" width="50" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
-  <!-- <img alt="Redux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> -->
+  <img alt="Redux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img alt="Node" height="65" width="65" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
-  <!-- <img alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> -->
+  <img alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <!-- <img alt="Sequelize" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> -->
   <!-- <img alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> -->
   <!-- <img alt="PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> -->
@@ -40,5 +40,6 @@
 -   In Linkedin  [Jonathan Barzola](https://www.linkedin.com/in/jonathanbarzola/)
    
 ---
-  ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
    
