@@ -45,4 +45,4 @@
 
 ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
    
-![](https://komarev.com/ghpvc/?username=jonathanbarzola&style=flat-square)
+![](https://komarev.com/ghpvc/?username=jonathanbarzola&style=for-the-badge)
