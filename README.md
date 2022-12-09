@@ -8,7 +8,7 @@
 ## :man_technologist: About Me
    
 <div>
-  <p>Apasionado por el Desarollo Web. Egresado del programa AWS re/Start, estoy muy feliz por haber encontrado lo que más me gusta, que es <b>¡programar!</b> y  encantado de estar en constante aprendizaje, aprendiendo de compañeros, mentores, y fascinado por encontrar nuevos retos.</p>
+  <p>Egresado del programa AWS re/Start y certificado como Cloud Practitioner, me considero una persona optimista que trabaja muy bien en equipo. Me encanta aprender y estar en constante aprendizaje, especialmente en el campo del desarrollo web, que es mi verdadera pasión. Estoy entusiasmado por seguir adquiriendo habilidades y conocimientos en este campo tan emocionante y en constante evolución, y estoy deseando poder aplicar mis habilidades y conocimientos en proyectos interesantes y desafiantes</p>
 </div>
 
 <br>
