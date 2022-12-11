@@ -44,5 +44,7 @@
 ---
 
 ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
-   
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanbarzola)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=jonathanbarzola&style=for-the-badge)
