@@ -13,7 +13,7 @@
 
 <br>
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools
 <div style="display: inline_block" align="center">
   <img alt="HTML" height="65" width="65" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
   <img alt="CSS" height="65" width="65" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
