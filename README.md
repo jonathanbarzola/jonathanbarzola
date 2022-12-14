@@ -44,5 +44,6 @@
 ---
 
 ![Snake animation](https://github.com/rencas1207/rencas1207/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=jonathanbarzola&style=for-the-badge)
