@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=jonathanbarzola&style=for-the-badge">
+
 <h1 align="center">Hi , I'm Jonathan Barzola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="center">
@@ -45,4 +47,4 @@
 ## 🐍 Snake eating my contribution 🐍
 ![snake gif](https://github.com/jonathanbarzola/jonathanbarzola/blob/output/github-contribution-grid-snake.svg)
 
-![](https://komarev.com/ghpvc/?username=jonathanbarzola&style=for-the-badge)
+<!--![](https://komarev.com/ghpvc/?username=jonathanbarzola&style=for-the-badge)-->
