@@ -42,7 +42,7 @@
 -   In Linkedin [Jonathan Barzola](https://www.linkedin.com/in/jonathanbarzola/)
    
 ---
-
+🐍 Snake eating my contribution 🐍
 ![snake gif](https://github.com/jonathanbarzola/jonathanbarzola/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=jonathanbarzola&style=for-the-badge)
