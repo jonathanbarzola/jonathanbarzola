@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Jonathan Barzola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=5EB0F7&background=FF31B700&lines=Full+Stack+Web+Developer"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=5EB0F7&background=FF31B700&lines=Cloud+Data+Engineer"></a>
 </p>
 
 
@@ -36,6 +36,7 @@
 <br>
 
 ## Validated knowledge
+<a href="https://www.credly.com/badges/d5e0bbf8-da90-4ad3-9602-058dcb3c5fc8" target="_blank"><img height="130" width="130" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Cloud Practitioner - Jonathan Barzola"></a>
 <a href="https://www.credly.com/badges/99b710b4-46cb-4eb9-ab98-22b67103b76d/public_url" target="_blank"><img height="130" width="130" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner - Jonathan Barzola"></a>
 <a href="https://www.credly.com/badges/a3a2de26-7b11-4488-9cc9-43a504f7fa78/public_url" target="_blank"><img height="130" width="130" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate - Jonathan Barzola"></a>
 
