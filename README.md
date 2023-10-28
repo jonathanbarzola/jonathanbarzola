@@ -36,8 +36,12 @@
 <br>
 
 ## Validated knowledge
-<a href="https://www.credly.com/badges/d5e0bbf8-da90-4ad3-9602-058dcb3c5fc8" target="_blank"><img height="130" width="130" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Cloud Practitioner - Jonathan Barzola"></a>
+<a href="https://www.credly.com/badges/d5e0bbf8-da90-4ad3-9602-058dcb3c5fc8" target="_blank"><img height="130" width="130" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect Associate - Jonathan Barzola"></a>
 <a href="https://www.credly.com/badges/99b710b4-46cb-4eb9-ab98-22b67103b76d/public_url" target="_blank"><img height="130" width="130" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner - Jonathan Barzola"></a>
+<a href="https://www.credly.com/badges/f6387e49-f3ff-4144-9931-a1a188e72df8" target="_blank"><img height="130" width="130" src="https://images.credly.com/size/340x340/images/7a2ed5ab-2bed-4b5c-84e9-fc7c71275da4/SnowProCoreTM600.png" alt="Snowflake 
+SnowPro Core Certification - Jonathan Barzola"></a>
+<a href="https://www.credly.com/badges/60c3d9bf-7bd7-4d8e-bc5f-ee64fd6fa2e8" target="_blank"><img height="130" width="130" src="https://images.credly.com/size/340x340/images/e6342e46-da89-4c5e-9962-ec57ec8b2c24/AdvancedArchitect600x600.png" alt="Snowflake 
+SnowPro Advanced Architect - Jonathan Barzola"></a>
 <a href="https://www.credly.com/badges/a3a2de26-7b11-4488-9cc9-43a504f7fa78/public_url" target="_blank"><img height="130" width="130" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate - Jonathan Barzola"></a>
 
 
